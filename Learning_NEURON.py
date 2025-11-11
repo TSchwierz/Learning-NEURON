@@ -115,3 +115,5 @@ ax2.legend()
 ax2.set_ylabel(n.units("ExpSyn.i"))
 ax2.set_xlabel("time (ms)")
 plt.show()
+
+# currently at tutorial 2, Connecting the cells

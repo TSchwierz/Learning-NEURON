@@ -1,0 +1,1 @@
+This repository contains several scripts in python to learn the module NEURON. NEURON is a simulation environment for modeling individual neurons and networks of neurons. It is widely used in computational neuroscience for simulating the electrical activity of neurons and neural circuits. 
